@@ -1,0 +1,25 @@
+{
+  "name": "live-reload-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fangwentian/live-reload.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fangwentian/live-reload/issues"
+  },
+  "homepage": "https://github.com/fangwentian/live-reload#readme",
+  "dependencies": {
+    "chokidar": "^2.0.4",
+    "koa": "^2.5.3",
+    "koa-static": "^5.0.0",
+    "ws": "^6.0.0"
+  }
+}
